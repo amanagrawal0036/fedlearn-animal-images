@@ -18,6 +18,7 @@ This project explores the theoretical foundations and practical implementation o
 - **Model Aggregation:** Updates from all clients are combined using Federated Averaging (FedAvg) to form the global model.
 
 ## 🏗️ Folder Structure
+```markdown
 FederatedAnimalClassifier/
 │
 ├── main.py # Entry point: Contains simulation logic
@@ -28,7 +29,7 @@ FederatedAnimalClassifier/
 │ ├── <image2>.jpg
 │ └── ... # All images used for training
 └── README.md # This file
-
+```
 ## 🧪 Dataset
 
 - **Source:** Kaggle's [Dogs vs. Cats Dataset](https://www.kaggle.com/c/dogs-vs-cats/data)
